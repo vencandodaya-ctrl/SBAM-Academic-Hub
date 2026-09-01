@@ -1,0 +1,28 @@
+{
+  "phase": "6-final-stable-candidate",
+  "name": "SBAM Academic Hub — Real Integration Candidate",
+  "student_ui": [
+    "Subjects",
+    "All Subjects",
+    "Diploma / B.A. / M.A. browsing",
+    "Cross-level subject search",
+    "Smart Jump",
+    "Learning Portal",
+    "Research",
+    "Journal/News links"
+  ],
+  "campus": [
+    "All Universities",
+    "Sagaing",
+    "Mandalay",
+    "Yangon",
+    "Taungoo",
+    "Thanlyin",
+    "future + Add Campus draft architecture"
+  ],
+  "admin_model": "Super Admin first; future Admin/Editor/Viewer roles",
+  "security": "Static GitHub Pages prototype only; production password hashing, server-side permissions, publish workflow and audit log require backend",
+  "future_years": "Open-ended data model; no hard stop at 2050",
+  "preservation": "index.baseline-before-integration.html preserved byte-for-byte from uploaded source",
+  "logo": "User-provided gold Dharma Wheel / lion logo applied to app branding and PWA icons"
+}
