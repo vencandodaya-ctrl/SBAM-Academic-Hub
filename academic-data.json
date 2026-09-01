@@ -1,0 +1,218 @@
+{
+  "version": "1.0",
+  "supportedAcademicYears": "open-ended",
+  "subjects": [
+    {
+      "id": "diploma-01",
+      "level": "Diploma",
+      "subject": "Vinaya",
+      "title": "Vinaya — Diploma Curriculum",
+      "description": "Vinaya lectures, curriculum topics and learning resources for Diploma.",
+      "source": "https://study.sbamdy.edu.mm/"
+    },
+    {
+      "id": "diploma-02",
+      "level": "Diploma",
+      "subject": "Sutta",
+      "title": "Sutta — Diploma Curriculum",
+      "description": "Sutta lectures, curriculum topics and learning resources for Diploma.",
+      "source": "https://study.sbamdy.edu.mm/"
+    },
+    {
+      "id": "diploma-03",
+      "level": "Diploma",
+      "subject": "Abhidhamma",
+      "title": "Abhidhamma — Diploma Curriculum",
+      "description": "Abhidhamma lectures, curriculum topics and learning resources for Diploma.",
+      "source": "https://study.sbamdy.edu.mm/"
+    },
+    {
+      "id": "diploma-04",
+      "level": "Diploma",
+      "subject": "Pāḷi",
+      "title": "Pāḷi — Diploma Curriculum",
+      "description": "Pāḷi lectures, curriculum topics and learning resources for Diploma.",
+      "source": "https://study.sbamdy.edu.mm/"
+    },
+    {
+      "id": "diploma-05",
+      "level": "Diploma",
+      "subject": "English",
+      "title": "English — Diploma Curriculum",
+      "description": "English lectures, curriculum topics and learning resources for Diploma.",
+      "source": "https://study.sbamdy.edu.mm/"
+    },
+    {
+      "id": "diploma-06",
+      "level": "Diploma",
+      "subject": "Ethics",
+      "title": "Ethics — Diploma Curriculum",
+      "description": "Ethics lectures, curriculum topics and learning resources for Diploma.",
+      "source": "https://study.sbamdy.edu.mm/"
+    },
+    {
+      "id": "diploma-07",
+      "level": "Diploma",
+      "subject": "History",
+      "title": "History — Diploma Curriculum",
+      "description": "History lectures, curriculum topics and learning resources for Diploma.",
+      "source": "https://study.sbamdy.edu.mm/"
+    },
+    {
+      "id": "ba-01",
+      "level": "B.A.",
+      "subject": "Vinaya",
+      "title": "Vinaya — B.A. Curriculum",
+      "description": "Vinaya lectures, curriculum topics and learning resources for B.A..",
+      "source": "https://study.sbamdy.edu.mm/"
+    },
+    {
+      "id": "ba-02",
+      "level": "B.A.",
+      "subject": "Sutta",
+      "title": "Sutta — B.A. Curriculum",
+      "description": "Sutta lectures, curriculum topics and learning resources for B.A..",
+      "source": "https://study.sbamdy.edu.mm/"
+    },
+    {
+      "id": "ba-03",
+      "level": "B.A.",
+      "subject": "Abhidhamma",
+      "title": "Abhidhamma — B.A. Curriculum",
+      "description": "Abhidhamma lectures, curriculum topics and learning resources for B.A..",
+      "source": "https://study.sbamdy.edu.mm/"
+    },
+    {
+      "id": "ba-04",
+      "level": "B.A.",
+      "subject": "Pāḷi",
+      "title": "Pāḷi — B.A. Curriculum",
+      "description": "Pāḷi lectures, curriculum topics and learning resources for B.A..",
+      "source": "https://study.sbamdy.edu.mm/"
+    },
+    {
+      "id": "ba-05",
+      "level": "B.A.",
+      "subject": "English",
+      "title": "English — B.A. Curriculum",
+      "description": "English lectures, curriculum topics and learning resources for B.A..",
+      "source": "https://study.sbamdy.edu.mm/"
+    },
+    {
+      "id": "ba-06",
+      "level": "B.A.",
+      "subject": "Ethics",
+      "title": "Ethics — B.A. Curriculum",
+      "description": "Ethics lectures, curriculum topics and learning resources for B.A..",
+      "source": "https://study.sbamdy.edu.mm/"
+    },
+    {
+      "id": "ba-07",
+      "level": "B.A.",
+      "subject": "History",
+      "title": "History — B.A. Curriculum",
+      "description": "History lectures, curriculum topics and learning resources for B.A..",
+      "source": "https://study.sbamdy.edu.mm/"
+    },
+    {
+      "id": "ma-01",
+      "level": "M.A.",
+      "subject": "Vinaya",
+      "title": "Vinaya — M.A. Curriculum",
+      "description": "Vinaya lectures, curriculum topics and learning resources for M.A..",
+      "source": "https://study.sbamdy.edu.mm/"
+    },
+    {
+      "id": "ma-02",
+      "level": "M.A.",
+      "subject": "Sutta",
+      "title": "Sutta — M.A. Curriculum",
+      "description": "Sutta lectures, curriculum topics and learning resources for M.A..",
+      "source": "https://study.sbamdy.edu.mm/"
+    },
+    {
+      "id": "ma-03",
+      "level": "M.A.",
+      "subject": "Abhidhamma",
+      "title": "Abhidhamma — M.A. Curriculum",
+      "description": "Abhidhamma lectures, curriculum topics and learning resources for M.A..",
+      "source": "https://study.sbamdy.edu.mm/"
+    },
+    {
+      "id": "ma-04",
+      "level": "M.A.",
+      "subject": "Pāḷi",
+      "title": "Pāḷi — M.A. Curriculum",
+      "description": "Pāḷi lectures, curriculum topics and learning resources for M.A..",
+      "source": "https://study.sbamdy.edu.mm/"
+    },
+    {
+      "id": "ma-05",
+      "level": "M.A.",
+      "subject": "English",
+      "title": "English — M.A. Curriculum",
+      "description": "English lectures, curriculum topics and learning resources for M.A..",
+      "source": "https://study.sbamdy.edu.mm/"
+    },
+    {
+      "id": "ma-06",
+      "level": "M.A.",
+      "subject": "Ethics",
+      "title": "Ethics — M.A. Curriculum",
+      "description": "Ethics lectures, curriculum topics and learning resources for M.A..",
+      "source": "https://study.sbamdy.edu.mm/"
+    },
+    {
+      "id": "ma-07",
+      "level": "M.A.",
+      "subject": "History",
+      "title": "History — M.A. Curriculum",
+      "description": "History lectures, curriculum topics and learning resources for M.A..",
+      "source": "https://study.sbamdy.edu.mm/"
+    }
+  ],
+  "campuses": [
+    {
+      "id": "ALL",
+      "name": "All Universities",
+      "type": "system",
+      "status": "active"
+    },
+    {
+      "id": "Sagaing",
+      "name": "Sagaing",
+      "type": "SBAM",
+      "status": "active"
+    },
+    {
+      "id": "Mandalay",
+      "name": "Mandalay",
+      "type": "SBAM",
+      "status": "active"
+    },
+    {
+      "id": "Yangon",
+      "name": "Yangon",
+      "type": "SBAM",
+      "status": "active"
+    },
+    {
+      "id": "Taungoo",
+      "name": "Taungoo",
+      "type": "SBAM",
+      "status": "active"
+    },
+    {
+      "id": "Thanlyin",
+      "name": "Thanlyin",
+      "type": "SBAM",
+      "status": "active"
+    }
+  ],
+  "roles": [
+    "Super Admin",
+    "Admin",
+    "Editor",
+    "Viewer"
+  ]
+}
