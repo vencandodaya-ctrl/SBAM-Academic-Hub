@@ -1,0 +1,16 @@
+{
+  "phase": "6",
+  "name": "SBAM Academic Platform — Integration Candidate",
+  "student_ui": [
+    "Subjects",
+    "All Subjects",
+    "Smart Jump",
+    "Learning Portal"
+  ],
+  "learning_source": "https://study.sbamdy.edu.mm/",
+  "admin_model": "Super Admin first; future Admin/Editor/Viewer roles",
+  "security": "Password hashing, permission checks, audit log are server-side requirements; not faked in static HTML",
+  "preservation": "index.original.locked.html is byte-for-byte preserved from the Phase 5 package",
+  "future_years": "Versioned academic-year data model; no hard stop at 2050",
+  "campus": "Extensible campus records with Add Campus reserved for authorized admin users"
+}
